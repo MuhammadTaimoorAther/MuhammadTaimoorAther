@@ -76,5 +76,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadTaimoorAther&show_icons=true)
 
 ###
